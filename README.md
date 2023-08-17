@@ -7,11 +7,7 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/lucasptrick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasptrick&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasptrick&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+
 
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="lucasptrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
