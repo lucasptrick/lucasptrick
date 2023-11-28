@@ -52,4 +52,4 @@
    <img align="center" alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
   
-Amante de tecnologia e das portas que a mesma pode abrir a todos os interessados a pegar seus gatilhos!
+Amante de tecnologia e das portas que ela pode abrir a todos os interessados à pegar seus gatilhos!
