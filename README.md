@@ -44,13 +44,6 @@
   <div style="display: inline_block">
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
-
-## Design Gráfico
-<div style="display: inline_block">
-    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img align="center" alt="photoshop" src="[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://icongr.am/devicon/photoshop-line.svg?size=128&color=currentColor)" />
-   
-</div><br/>
   
 ## Gerenciamento
   <div style="display: inline_block">
