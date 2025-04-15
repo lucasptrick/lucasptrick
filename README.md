@@ -2,9 +2,10 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasptrick_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucaskmassa44@gmail.com/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucaskmassa44@gmail.com/)
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasptrck/)
 [![Currículo Lattes](https://img.shields.io/badge/Curr%C3%ADculo_Lattes-000000?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/6077008715015832)
+[![ORCID](https://img.shields.io/badge/ORCID-0009%2D0001%2D9931%2D9008-brightgreen)](https://orcid.org/0009-0001-9931-9008)
 
   </div>
 
